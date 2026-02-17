@@ -1,7 +1,3 @@
-CS152 Draft Lab
-Author: Connor Townson
-Class: CS152 - Sports Analytics, Tufts University
-
 DOCUMENTATION
 -------------
 
